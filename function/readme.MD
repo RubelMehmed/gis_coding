@@ -56,3 +56,5 @@ Install the necessary libraries using:
 ```bash
 pip install pandas numpy matplotlib
 ```
+
+![Hospital Coverage Visualization](medical_service.png)
